@@ -1,6 +1,6 @@
 # moddhobitto_mobile
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
