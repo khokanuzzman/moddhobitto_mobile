@@ -1,16 +1,8 @@
 # moddhobitto_mobile
 
 A Flutter project.
+Its a kind of expanse management application developing by flutter and backend in java bootspring.
+User can easily maintain their expanses and get a total stats of their exapnses and budget.
+It is well organized and designed.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User can easily set their budget for the month and organize into diffrent sections.
